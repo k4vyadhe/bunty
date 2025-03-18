@@ -1,0 +1,51 @@
+<h1> KAVYA DHENGARE CS24016 </h1>
+<html>
+<head>
+    <title>Study Timetable</title>
+</head>
+<body>
+
+    <h2>Study Timetable</h2>
+
+    <table border="10" cellspacing="10" cellpadding="15">
+        <tr>
+            <th>Time</th>
+            <th>06:30 - 07:30 PM</th>
+            <th>07:30 - 08:30 PM</th>
+            <th>09:30 - 10:30 PM</th>
+        </tr>
+        <tr>
+            <td>MONDAY</td>
+            <td>Math</td>
+            <td>ACP</td>
+            <td rowspan="2">GRAPHIC</td>
+        </tr>
+        <tr>
+            <td>TUESDAY</td>
+            <td>CE</td>
+            <td>PPS</td>
+        </tr>
+        <tr>
+            <td>WEDNESDAY</td>
+            <td colspan="2">EE</td>
+            <td>CODING</td>
+        </tr>
+ <tr>
+            <td>THURSDAY</td>
+            <td colspan="2">ENG</td>
+            <td>CODING</td>
+        </tr>
+ <tr>
+            <td>FRIDAY</td>
+            <td colspan="2">FRENCH</td>
+            <td>ACP</td>
+        </tr>
+ <tr>
+            <td>SATURDAY</td>
+            <td colspan="2">GAME</td>
+            <td>HTML</td>
+        </tr>
+    </table>
+
+</body>
+</html>
